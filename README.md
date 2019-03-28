@@ -12,3 +12,5 @@ a project about submit_photo
 ## ios或者安卓手机上传竖拍照片旋转90度显示问题
 利用exif.js读取照片的拍摄信息，详见  [exif.js官网](http://code.ciaoca.com/javascript/exif-js/)
 
+![示例图片](./show.jpg)
+
