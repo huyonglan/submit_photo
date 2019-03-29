@@ -19,3 +19,5 @@ a project about submit_photo
 ![示例图片](./show.jpg)
 ![示例图片](./show1.jpg)
 
+~~请删掉我把~~
+
