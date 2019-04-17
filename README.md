@@ -1,10 +1,5 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
-Copyright (c) <year> <copyright holders>
-
-"Anti 996" License Version 1.0 (Draft)
-
-
 # submit_photo
 a project about submit_photo
 
